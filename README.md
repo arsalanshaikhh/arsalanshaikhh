@@ -19,7 +19,7 @@ I am  `Arsalan Shaikh`  I'm passionate Full-Stack Web developer.
 
 - 👨‍💻 Most of my projects are available on `arsalanshaikhh` <a target="_blank"  href="https://https://github.com/arsalanshaikhh">Github.</a>
 
-- 💬 Ping me about <strong>Web Development, </strong>Lets grow together
+- 💬 Ping me about <strong>Web Development, </strong>Lets grow together.
 
 - 📫 How to reach me `arsalan4coder@gmail.com` <a target="_blank"  href="https://mail.google.com/mail/arsalan4coder@gmail.com">Email.</a>
 
