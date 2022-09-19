@@ -17,11 +17,11 @@
 
 - 👨‍💻 Most of my projects are available on `arsalanshaikhh` <a target="_blank"  href="https://https://github.com/arsalanshaikhh">Github</a>
 
+- 💬 Ping me about <strong>Web Development, </strong>Lets grow together
+
 - 📫 How to reach me *arsalan4coder@gmail.com*
 
 - 📙 Check out <a target="_blank"  href="https://arsalanshaikhh.github.io/">Arsalan's Web Resume</a>.
-
-- 💬 Ping me about <strong>Web Development, </strong>Lets grow together
 
 - ⚡ Fun fact _I love to play Football._
 
