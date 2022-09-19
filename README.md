@@ -23,7 +23,7 @@ I am  `Arsalan Shaikh`  I'm passionate Full-Stack Web developer.
 
 - 📫 How to reach me `arsalan4coder@gmail.com` <a target="_blank"  href="https://mail.google.com/mail/arsalan4coder@gmail.com">Email.</a>
 
-- 📙 Check out `Arsalan's Web Resume`<a target="_blank"  href="https://arsalanshaikhh.github.io/"><img src="https://media4.giphy.com/media/jJNX2Lq0ibifLJYbJs/200w.webp?cid=ecf05e47dwmd18rpadbiudd3yx3ol69y0w736mnh7o3rphuj&rid=200w.webp&ct=s" width="35px" height="35x"></a>
+- 📙 Check out `Arsalan's Web Resume`<a target="_blank"  href="https://arsalanshaikhh.github.io/"><img src="https://media2.giphy.com/media/WT53J4TjfCVoZGEgU3/100.webp?cid=ecf05e47jbyr7m2axibt8u31kfvip1qj32j2owylddb18dmg&rid=100.webp&ct=s" width="35px" ></a>
 
 - ⚡ Fun fact `I can speak Four Languages & can read more than Five.`
 
