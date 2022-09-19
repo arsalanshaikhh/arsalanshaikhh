@@ -15,11 +15,13 @@
 
 - 🌱 I’m currently learning _Full-Stack Web Development._
 
-- 👨‍💻 All of my projects are available at [https://github.com/arsalanshaikhh?tab=repositories](https://github.com/arsalanshaikhh?tab=repositories)
-
-- 💬 Ask me about _HTML5, CSS3, JAVASCRIPT & REACT.JS_
+- 👨‍💻 Most of my projects are available on `arsalanshaikhh` <a target="_blank"  href="https://https://github.com/arsalanshaikhh">Github</a>
 
 - 📫 How to reach me *arsalan4coder@gmail.com*
+
+- 📙 Check out <a target="_blank"  href="https://arsalanshaikhh.github.io/">Arsalan's Web Resume</a>.
+
+- 💬 Ping me about <strong>Web Development, </strong>Lets grow together
 
 - ⚡ Fun fact _I love to play Football._
 
@@ -54,9 +56,4 @@
   </p>
 <br>
 <br>
-<p align="center">
-<img  src="https://github-readme-stats.vercel.app/api?username=arsalanshaikhh&show_icons=true&theme=onedark" alt="arsalanshaikhh" />
-<img  height="195" src="https://github-readme-stats.vercel.app/api/top-langs?username=arsalanshaikhh&show=css&theme=nord" alt="arsalanshaikhh" />
-</p>
 
-<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=arsalanshaikhh&theme=nord" alt="arsalanshaikhh" /></p>
