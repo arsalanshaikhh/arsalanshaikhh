@@ -25,7 +25,7 @@ I am  `Arsalan Shaikh`  I'm passionate Full-Stack Web developer.
 
 - 📙 Check out `Arsalan's Web Resume`<a target="_blank"  href="https://arsalanshaikhh.github.io/"> Here.</a>
 
-- ⚡ Fun fact `I can speak Four Languages & can read more than Five.`
+- ⚡ Fun fact `I can speak Four Languages.`
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
