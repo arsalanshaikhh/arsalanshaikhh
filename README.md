@@ -19,7 +19,7 @@
 
 - 💬 Ping me about <strong>Web Development, </strong>Lets grow together
 
-- 📫 How to reach me *arsalan4coder@gmail.com*
+- 📫 How to reach me `arsalan4coder@gmail.com` <a target="_blank"  href="[https://https://github.com/arsalanshaikhh](https://mail.google.com/mail/arsalan4coder@gmail.com)">Email</a>
 
 - 📙 Check out <a target="_blank"  href="https://arsalanshaikhh.github.io/">Arsalan's Web Resume</a>.
 
