@@ -13,7 +13,7 @@ I am  `Arsalan Shaikh`  I'm passionate Full-Stack Web developer.
 </p>
 
 
-<img align="right" alt="GIF" height="200px" src="https://s21870.pcdn.co/wp-content/uploads/2016/06/giphy-21.gif" />
+<img align="right" alt="GIF" height="200px" src="https://i.pinimg.com/originals/18/e0/64/18e0641748101b3f7275f5723d4405f0.gif" />
 
 - 🌱 I’m currently learning `Full-Stack Web Development.`
 
