@@ -23,7 +23,7 @@
 
 - 📙 Check out <a target="_blank"  href="https://arsalanshaikhh.github.io/">Arsalan's Web Resume</a>.
 
-- ⚡ Fun fact `I love to play Chess and Carrom`
+- ⚡ Fun fact `I can speak Four Languages and can read more than Five`
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
