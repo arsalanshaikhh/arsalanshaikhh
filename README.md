@@ -23,7 +23,7 @@
 
 - 📙 Check out <a target="_blank"  href="https://arsalanshaikhh.github.io/">Arsalan's Web Resume</a>.
 
-- ⚡ Fun fact _I love to play Football._
+- ⚡ Fun fact `I love to play Chess and Carrom`
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
