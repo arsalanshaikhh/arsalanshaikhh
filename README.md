@@ -12,6 +12,7 @@ I am  `Arsalan Shaikh`  I'm passionate Full-Stack Web developer.
 
 </p>
 
+
 <img align="right" alt="GIF" height="200px" src="https://s21870.pcdn.co/wp-content/uploads/2016/06/giphy-21.gif" />
 
 - 🌱 I’m currently learning `Full-Stack Web Development.`
@@ -22,7 +23,7 @@ I am  `Arsalan Shaikh`  I'm passionate Full-Stack Web developer.
 
 - 📫 How to reach me `arsalan4coder@gmail.com` <a target="_blank"  href="https://mail.google.com/mail/arsalan4coder@gmail.com">Email.</a>
 
-- 📙 Check out `Arsalan's Web Resume`<a target="_blank"  href="https://arsalanshaikhh.github.io/">👆</a>.
+- 📙 Check out `Arsalan's Web Resume`<a target="_blank"  href="https://arsalanshaikhh.github.io/"><img src="https://media0.giphy.com/media/WT5h7PgVSScLLKtMaS/giphy.gif?cid=ecf05e47pnevdfpmjmntil7he476jdwmn0m598q5r6lkhhji&rid=giphy.gif&ct=s" width="30px" height="30px"></a>.
 
 - ⚡ Fun fact `I can speak Four Languages & can read more than Five.`
 
