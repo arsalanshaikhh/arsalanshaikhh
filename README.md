@@ -67,8 +67,9 @@ I am  `Arsalan Shaikh`  I'm passionate Full-Stack Web developer.
 
 
  <p align="center">
-  <img  height="195" src="https://github-readme-stats.vercel.app/api/top-langs?username=arsalanshaikhh&show=css&theme=nord" alt="arsalanshaikhh" />
+  
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=arsalanshaikhh&theme=nord" alt="arsalanshaikhh" />
+ <img  height="195" src="https://github-readme-stats.vercel.app/api/top-langs?username=arsalanshaikhh&show=css&theme=nord" alt="arsalanshaikhh" />
 </p>
 
 
