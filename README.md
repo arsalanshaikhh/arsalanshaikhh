@@ -62,14 +62,15 @@ I am  `Arsalan Shaikh`  I'm passionate Full-Stack Web developer.
 <br>
 <p align="center">
 <img  src="https://github-readme-stats.vercel.app/api?username=arsalanshaikhh&show_icons=true&theme=onedark" alt="arsalanshaikhh" />
+ <img  height="195" src="https://github-readme-stats.vercel.app/api/top-langs?username=arsalanshaikhh&show=css&theme=onedark" alt="arsalanshaikhh" />
 
 </p>
 
 
  <p align="center">
   
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=arsalanshaikhh&theme=nord" alt="arsalanshaikhh" />
- <img  height="195" src="https://github-readme-stats.vercel.app/api/top-langs?username=arsalanshaikhh&show=css&theme=onedark" alt="arsalanshaikhh" />
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=arsalanshaikhh&theme=onedark" alt="arsalanshaikhh" />
+
 </p>
 
 
