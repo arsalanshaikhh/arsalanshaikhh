@@ -2,7 +2,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=arsalanshaikhh&label=Profile%20views&color=0e75b6&style=flat" alt="arsalanshaikhh" /> </p> -->
 
-<!-- <p align="left"> <a href="https://twitter.com/iarsalanshaikh" target="blank"><img src="https://img.shields.io/twitter/follow/iarsalanshaikhg?logo=twitter&style=for-the-badge" alt="iarsalanshaikh" /></a> </p> -->
+<!-- <p align="left"> <a href="https://twitter.com/iarsalanshaikh" target="blank"><img src="https://img.shields.io/twitter/follow/Arsalan99853?logo=twitter&style=for-the-badge" alt="iarsalanshaikh" /></a> </p> -->
 I am  `Arsalan Shaikh`  I'm passionate Full-Stack Web developer.
 
 
@@ -30,11 +30,11 @@ I am  `Arsalan Shaikh`  I'm passionate Full-Stack Web developer.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/iarsalanshaikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iarsalanshaikh" height="30" width="40" /></a>
+<a href="https://twitter.com/Arsalan99853" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Arsalan99853" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/arsalanshaikhh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arsalanshaikhh" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/arsalan-shaikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="arsalan-shaikh" height="30" width="40" /></a>
 <a href="https://codesandbox.com/arsalan-shaikhg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="arsalan-shaikh" height="30" width="40" /></a>
-<a href="https://instagram.com/iarsalanshaikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iarsalanshaikh" height="30" width="40" /></a>
+<a href="https://instagram.com/Arsalan99853" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Arsalan99853" height="30" width="40" /></a>
 <a href="https://medium.com/@arsalan-shaikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@arsalan-shaikh" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/arsalan-shaikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arsalan-shaikh" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/arsalan-shaikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arsalan-shaikh" height="30" width="40" /></a>
