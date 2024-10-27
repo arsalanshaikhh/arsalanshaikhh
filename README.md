@@ -29,12 +29,12 @@ I am  `Arsalan Shaikh`  I'm passionate Full-Stack Web developer.
 -->
 
 - ⚡ Fun fact `I can speak Four Languages.`
-
+<!-- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/Arsalan99853" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Arsalan99853" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/arsalanshaikhh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arsalanshaikhh" height="30" width="40" /></a>
-
+-->
 
 <!--LANGUAGES  -->
 <h3 align="left">Languages and Tools:</h3>
