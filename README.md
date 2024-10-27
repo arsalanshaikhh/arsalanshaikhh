@@ -7,7 +7,9 @@ I am  `Arsalan Shaikh`  I'm passionate Full-Stack Web developer.
 
 
 <p align="left">
+ <!--
 <a target="_blank"  href="https://www.linkedin.com/in/arsalanshaikhh/"><img src="https://img.shields.io/badge/-@arsalanshaikhh-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/arsalanshaikhh/" alt="LinkedIn Badge"></a>
+ -->
 <a target="_blank"><img src="https://komarev.com/ghpvc/?username=arsalanshaikhh&label=Profile%20views&color=0e75b6&style=flat" alt="arsalanshaikhh" /> </a>
 </p>
 
