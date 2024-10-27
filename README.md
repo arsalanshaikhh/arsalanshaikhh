@@ -22,9 +22,11 @@ I am  `Arsalan Shaikh`  I'm passionate Full-Stack Web developer.
 
 - 💬 Ping me about <strong>Web Development, </strong>Lets grow together.
 
-- 📫 How to reach me `arsalan4coder@gmail.com` <a target="_blank"  href="https://mail.google.com/mail/arsalan4coder@gmail.com">Email.</a>
+<!-- 
+- 📫 How to reach me `arsalan4coder@gmail.com` <a target="_blank"  href="https://mail.google.com/mail/arsalan4coder@gmail.com">Email.</a> 
 
 - 📙 Check out `Arsalan's Web Resume`<a target="_blank"  href="https://arsalanshaikhh.github.io/"> Here.</a>
+-->
 
 - ⚡ Fun fact `I can speak Four Languages.`
 
